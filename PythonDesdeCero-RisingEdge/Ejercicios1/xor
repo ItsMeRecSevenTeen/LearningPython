@@ -1,0 +1,22 @@
+╭──────────────────────────────────────────────────────────── XOR ─────────────────────────────────────────────────────────────╮
+│ El "o exclusivo" (xor) es una operación lógica que sigue las siguientes reglas:                                              │
+│                                                                                                                              │
+│  • False xor False -> False                                                                                                  │
+│  • True xor False -> True                                                                                                    │
+│  • False xor True -> True                                                                                                    │
+│  • True xor True -> False                                                                                                    │
+│                                                                                                                              │
+│ Básicamente sólo es verdadero cuando una (y solo una) de las dos entradas es verdadera. Escriba un programa que calcule el   │
+│ xor a partir de dos parámetros de entrada.                                                                                   │
+│                                                                                                                              │
+│ NOTA: Sólo se pueden usar operadores booleanos and, or y not                                                                 │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+┏━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┓
+┃   ┃ (entrada) ┃ (entrada) ┃ (salida)  ┃
+┃ # ┃ v1: bool  ┃ v2: bool  ┃ xor: bool ┃
+┡━━━╇━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━┩
+│ 1 │ False     │ False     │ False     │
+│ 2 │ True      │ False     │ True      │
+│ 3 │ False     │ True      │ True      │
+│ 4 │ True      │ True      │ False     │
+└───┴───────────┴───────────┴───────────┘
