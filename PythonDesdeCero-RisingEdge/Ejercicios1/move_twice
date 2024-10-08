@@ -1,0 +1,14 @@
+╭──────────────────────────────────────────────────── TIRO PORQUE ME TOCA ─────────────────────────────────────────────────────╮
+│ En este juego, la heroína se mueve de izquierda a derecha. El jugador tira el dado y se mueve dos veces el número indicado   │
+│ por el dado.                                                                                                                 │
+│                                                                                                                              │
+│ Dada la posición actual de la heroína y el resultado del dado (1-6) calcule la nueva posición.                               │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+┏━━━┳━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━━━━━┓
+┃   ┃ (entrada)        ┃ (entrada) ┃ (salida)       ┃
+┃ # ┃ current_pos: int ┃ dice: int ┃ final_pos: int ┃
+┡━━━╇━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━━━━━┩
+│ 1 │ 3                │ 6         │ 15             │
+│ 2 │ 1                │ 4         │ 9              │
+│ 3 │ 5                │ 2         │ 9              │
+└───┴──────────────────┴───────────┴────────────────┘
