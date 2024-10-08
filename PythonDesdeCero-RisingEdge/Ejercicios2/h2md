@@ -1,0 +1,16 @@
+╭───────────────────────────────────── CONVIRTIENDO HTML A MARKDOWN ─────────────────────────────────────╮
+│                                                                                                        │
+│                                                                                                        │
+│                                                                                                        │
+│ Dada un fragmento de HTML que contiene una etiqueta de encabezado , , ...  Se pide transformarlo a su  │
+│ correspondiente versión de Markdown.                                                                   │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+┏━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   ┃ (entrada)                   ┃ (salida)               ┃
+┃ # ┃ html: str                   ┃ markdown: str          ┃
+┡━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ 1 │ '<h1>Core</h1>'             │ '# Core'               │
+│ 2 │ '<h2>Tipos de datos</h2>'   │ '## Tipos de datos'    │
+│ 3 │ '<h3>Cadenas de texto</h3>' │ '### Cadenas de texto' │
+│ 4 │ '<h4>hola</h4>'             │ '#### hola'            │
+└───┴─────────────────────────────┴────────────────────────┘
