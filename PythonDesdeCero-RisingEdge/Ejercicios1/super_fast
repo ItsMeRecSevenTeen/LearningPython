@@ -1,0 +1,14 @@
+╭─────────────────────────────────────────────────── ANIMALES SUPER RÁPIDOS ───────────────────────────────────────────────────╮
+│ El escarabajo tigre es uno de los animales más veloces del planeta llegando a alcanzar el equivalente a 400 km/h (si         │
+│ hablamos de un humano de estatura media).                                                                                    │
+│                                                                                                                              │
+│ Dado que sus distancias son más cortas, convierta la velocidad de km/h a cm/s.                                               │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+┏━━━┳━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┓
+┃   ┃ (entrada)         ┃ (salida)          ┃
+┃ # ┃ speed_km_h: float ┃ speed_cm_s: float ┃
+┡━━━╇━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━┩
+│ 1 │ 1.08              │ 30.0              │
+│ 2 │ 4.25              │ 118.0             │
+│ 3 │ 0.099             │ 2.0               │
+└───┴───────────────────┴───────────────────┘
