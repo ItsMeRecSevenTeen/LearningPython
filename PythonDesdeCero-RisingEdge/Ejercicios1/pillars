@@ -1,0 +1,19 @@
+╭─────────────────────────────────────────────────── POSTES EN LA CARRETERA ───────────────────────────────────────────────────╮
+│ Hay postes cerca de la carretera. La distancia entre los postes es la misma y el ancho de los postes también es el mismo.    │
+│                                                                                                                              │
+│ Se aceptan tres parámetros de entrada:                                                                                       │
+│                                                                                                                              │
+│  • Número de postes.                                                                                                         │
+│  • Distancia entre postes (en metros).                                                                                       │
+│  • Ancho del poste (centímetros).                                                                                            │
+│                                                                                                                              │
+│ Calcule la distancia (en centímetros) entre el primer y el último poste (quitando el ancho del primer y del último poste).   │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+┏━━━┳━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   ┃ (entrada)        ┃ (entrada)          ┃ (entrada)           ┃ (salida)              ┃
+┃ # ┃ num_pillars: int ┃ gap_pillars: float ┃ pillar_width: float ┃ inter_distance: float ┃
+┡━━━╇━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━┩
+│ 1 │ 10               │ 5                  │ 30                  │ 4740.0                │
+│ 2 │ 2                │ 1.5                │ 50                  │ 150.0                 │
+│ 3 │ 5                │ 2.25               │ 75                  │ 1125.0                │
+└───┴──────────────────┴────────────────────┴─────────────────────┴───────────────────────┘
