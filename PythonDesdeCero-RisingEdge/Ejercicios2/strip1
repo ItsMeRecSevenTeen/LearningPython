@@ -1,0 +1,12 @@
+╭────────────────────────────────────── QUITANDO PRIMERO Y ÚLTIMO ───────────────────────────────────────╮
+│ Dada una cadena de texto, se pide eliminar el primer y el último caracter de dicha cadena de texto.    │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+┏━━━┳━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┓
+┃   ┃ (entrada)           ┃ (salida)          ┃
+┃ # ┃ text: str           ┃ stext: str        ┃
+┡━━━╇━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━┩
+│ 1 │ 'What can I do'     │ 'hat can I d'     │
+│ 2 │ 'Only when I sleep' │ 'nly when I slee' │
+│ 3 │ 'Runaway'           │ 'unawa'           │
+│ 4 │ 'Happiness'         │ 'appines'         │
+└───┴─────────────────────┴───────────────────┘
