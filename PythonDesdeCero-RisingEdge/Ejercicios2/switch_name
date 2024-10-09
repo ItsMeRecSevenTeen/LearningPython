@@ -1,0 +1,12 @@
+╭─────────────────────────────────────── INTERCAMBIANDO TU NOMBRE ───────────────────────────────────────╮
+│ Escriba un programa en Python que acepte el nombre y los apellidos de una persona y los devuelva en    │
+│ orden inverso separados por una coma. Utilice f-strings para implementarlo.                            │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+┏━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   ┃ (entrada) ┃ (entrada)          ┃ (salida)                   ┃
+┃ # ┃ name: str ┃ surname: str       ┃ fullname: str              ┃
+┡━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ 1 │ 'Sergio'  │ 'Delgado Quintero' │ 'Delgado Quintero, Sergio' │
+│ 2 │ 'Grace'   │ 'Hopper'           │ 'Hopper, Grace'            │
+│ 3 │ 'Guido'   │ 'Van Rossum'       │ 'Van Rossum, Guido'        │
+└───┴───────────┴────────────────────┴────────────────────────────┘
