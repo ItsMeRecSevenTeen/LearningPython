@@ -1,0 +1,11 @@
+╭─────────────────────────────────────────── NOMBRE VICEVERSA ───────────────────────────────────────────╮
+│ Dado un nombre, obtenga el nombre completo intercambiando nombre y apellidos.                          │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+┏━━━┳━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   ┃ (entrada)             ┃ (salida)              ┃
+┃ # ┃ fullname: str         ┃ swapname: str         ┃
+┡━━━╇━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━┩
+│ 1 │ 'John McClane'        │ 'McClane John'        │
+│ 2 │ 'Charles Foster Kane' │ 'Foster Kane Charles' │
+│ 3 │ 'Terminator T-800'    │ 'T-800 Terminator'    │
+└───┴───────────────────────┴───────────────────────┘
