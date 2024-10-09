@@ -1,0 +1,12 @@
+╭─────────────────────────────────── UNA MÉTRICA PARA CADENA DE TEXTO ───────────────────────────────────╮
+│ Calcule la siguiente métrica para una cadena de texto dada: Número total de caracteres multiplicado    │
+│ por número total de vocales.                                                                           │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+┏━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
+┃   ┃ (entrada)    ┃ (salida)    ┃
+┃ # ┃ text: str    ┃ metric: int ┃
+┡━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
+│ 1 │ 'ordenador'  │ 36          │
+│ 2 │ 'pantalla'   │ 24          │
+│ 3 │ 'procesador' │ 40          │
+└───┴──────────────┴─────────────┘
